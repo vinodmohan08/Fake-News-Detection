@@ -87,3 +87,7 @@ VINOD MOHAN
 Artificial Intelligence Internship Project
 
 CodeTech IT Solutions
+
+
+Datasets can be found in kaggle.com
+LINK: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
